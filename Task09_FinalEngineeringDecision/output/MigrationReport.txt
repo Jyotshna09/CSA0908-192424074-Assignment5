@@ -1,0 +1,11 @@
+BUS PASS MIGRATION VALIDATION REPORT
+-----------------------------------
+VALID: BP301
+VALID: BP302
+VALID: BP303
+INVALID: INVALID|RECORD
+VALID: BP304
+
+Valid records: 4
+Invalid records: 1
+Migration validation completed.
